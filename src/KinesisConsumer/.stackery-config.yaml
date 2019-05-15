@@ -1,0 +1,2 @@
+function-id: KinesisConsumer
+template-path: ../../template.yaml

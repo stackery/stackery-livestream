@@ -1,0 +1,2 @@
+function-id: SQSConsumer
+template-path: ../../template.yaml
